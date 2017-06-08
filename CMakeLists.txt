@@ -70,5 +70,5 @@ set(sources
   stb_sprintf.h
 )
 
-install(FILES ${sources} DESTINATION include)
+install(FILES ${sources} DESTINATION include/stb)
 
